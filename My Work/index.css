@@ -1,0 +1,1385 @@
+/* -----------The beggining of the main container------------- */
+
+.main-container{
+    /* border:2px solid black; */
+    display:flex;
+    flex-direction:column;
+    /* justify-content:; */
+    /* align-items:; */
+    width:100%;
+    height:100%;
+}
+
+.early{
+    /* border:2px solid black; */
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    /* align-items:; */
+    width:100%;
+    height:80px;
+}
+
+.soon{
+    /* border:2px solid black; */
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    margin-left:20px;
+}
+
+.done{
+    width:500px;
+    height:80px;
+    /* border:2px solid greenyellow; */
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    margin-left:30px;
+}
+
+.navigation{
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    font-weight:bold;
+}
+
+.navigation:hover{
+    color:rgb(0, 183, 255);
+    cursor: pointer;
+}
+
+.proof{
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    font-weight:bold;
+}
+
+.proof:hover{
+    color:rgb(0, 183, 255);
+    cursor: pointer;
+}
+
+
+.late{
+    /* border:2px solid brown; */
+    width:500px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-evenly;
+}
+
+.proof{
+    /* border:2px solid brown; */
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.jasper{
+    background:url("./Images/hello.jfif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:450px;
+    width:100%;
+    /* border:2px solid sienna; */
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.act{
+    /* border:2px solid red; */
+    height:350px;
+    width:90%;
+    display:flex;
+    flex-direction:column;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+h3{
+    color:white;
+    font-size:30px;
+    font-weight:bolder;
+    margin-left:30px;
+}
+
+.Arcade{
+    /* border:2px solid black; */
+    height:60px;
+    width:300px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    /* align-items:; */
+    margin-left:30px;
+}
+
+h4{
+    color:white;
+}
+
+.years{
+    height:70px;
+    width:450px;
+    /* border:2px solid greenyellow; */
+    margin-left:30px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+
+#Trips{
+    width:150px;
+    height:30px;
+    border-radius:5px;
+    margin-right:10px;
+}
+
+#fish{
+    width:150px;
+    height:30px;
+    border-radius:5px;
+    margin-right:10px;
+
+}
+
+#logo{
+    width:150px;
+    height:30px;
+    border-radius:5px;
+}
+
+.Ada{
+    height:80px;
+    width:90%;
+    /* border:2px solid Pink; */
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    align-items:center;
+    margin-left:30px;
+}
+
+.zero{
+    height:60px;
+    text-align:center;
+    margin-right:10px;
+    width:200px;
+    border-radius:5px;
+}
+
+.false{
+    height:60px;
+    text-align:center;
+    margin-right:10px;
+    width:200px;
+    border-radius:5px;
+}
+
+.guess{
+    height:60px;
+    text-align:center;
+    width:200px;
+    border-radius:5px;
+}
+
+.ruth{
+    height:60px;
+    text-align:center;
+    width:200px;
+    margin-right:10px;
+    border-radius:5px;
+}
+
+.david{
+    height:60px;
+    text-align:center;
+    width:100px;
+    border-radius:5px;
+}
+
+.bucks{
+    height:80px;
+    width:40%;
+    /* border:2px solid rgb(0, 183, 255); */
+    margin-left:50%;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+.intel{
+    width:20px;
+}
+
+.proper{
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    align-items:center;
+    color:white;
+    margin-right:30px;
+    margin-left:5px;
+}
+
+.Arise{
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    align-items:center;
+    color:white;
+    margin-left:30px;
+}
+
+.East{
+    height:100px;
+    width:100%;
+    /* border:2px solid goldenrod; */
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-evenly;
+}
+
+.west{
+    height:80px;
+    width:350px;
+    /* border:2px solid fuchsia; */
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    justify-content:center;
+}
+
+.Zara{
+    /* border:2px solid teal; */
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    font-weight:bold;
+    font-size:larger;
+}
+
+.Elite{
+    width:250px;
+    /* border:2px solid teal; */
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    font-weight:lighter;
+    margin-top:5px;
+}
+
+.Ben{
+    /* border:2px solid orange; */
+    display:flex;
+    /* flex-direction:; */
+    align-items:center;
+    /* justify-content:; */
+    font-size:larger;
+    font-weight:bold;
+}
+
+.Supreme{
+    width:250px;
+    /* border:2px solid red; */
+    display:flex;
+    /* flex-direction:; */
+    /* align-items:; */
+    /* justify-content:; */
+    font-weight:lighter;
+    margin-top:5px;
+}
+
+.first{
+    /* border: 2px solid greenyellow; */
+    display:flex;
+    /* flex-direction:; */
+    /* align-items:; */
+    /* justify-content:; */
+    font-size:large;
+    font-weight:bold;
+}
+
+.Second{
+    width:150px;
+    /* border: 2px solid greenyellow; */
+    display:flex;
+    /* flex-direction:; */
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:5px;
+}
+
+.Level{
+    /* border:2px solid blueviolet; */
+    width:100%;
+    height:120px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+
+}
+
+.under{
+    background:url(./Images/J.jfif);
+    /* border:2px solid blueviolet; */
+    width:90%;
+    height: 120px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+/* ---------------End of the main cointainer----------------*/
+
+
+.container{
+    /* border:2px solid magenta; */
+    width:100%;
+    height:350px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    justify-content:space-around;
+    margin-top:60px;
+}
+
+.Booking{
+    /* border:2px solid red; */
+    height:350px;
+    width:85%;
+    display:flex;
+    flex-direction:column;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+.Pay{
+    background:url(./Images/Jeff.png);
+    /* border:2px solid forestgreen; */
+    width:400px;
+    height:70%;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    /* align-items:; */
+    margin-right:10px;
+}
+
+.May{
+    background:url(./Images/soon.jfif);
+    /* border:2px solid forestgreen; */
+    width:400px;
+    height:70%;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    /* align-items:; */
+    margin-right:10px;
+
+}
+
+.Day{
+    background:url(./Images/The.jfif);
+    /* border:2px solid forestgreen; */
+    width:400px;
+    height:70%;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+.forever{
+    /* border:2px solid red; */
+    height:100px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    align-items:center;
+}
+
+.over{
+    /* border:2px solid hotpink; */
+    height:400px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    /* align-items:; */
+}
+
+/* ---------------------Beginning Of Location Panel------------------ */
+
+.Pole{
+    /* border:2px solid forestgreen; */
+    height:400px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-content:; */
+}
+
+.underated{
+    /* border:2px solid red; */
+    height:400px;
+    width:85%;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.rare{
+    /* border:2px solid hotpink; */
+    height:80px;
+    width:100%;
+    display:flex;
+    /* flex-direction:; */
+    align-items:center;
+    /* justify-content:; */
+}
+
+.July{
+    background:url(./Images/hello.jfif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:250px;
+    width:550px;
+    /* border:2px solid greenyellow; */
+    margin-right:10px;
+} 
+
+.August{
+    background:url(./Images/J.jfif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:250px;
+    width:550px;
+    /* border:2px solid greenyellow; */
+}
+
+.Shadow{
+    /* border:2px solid hotpink; */
+    height:350px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    /* align-items; */
+    /* justify-content:; */
+}
+
+/* ------------------End of the Location Panel----------------- */
+
+/* ------------------Another Part of the site that has to do with mobile application----------------- */
+
+.Sony{
+    margin-top:80px;
+    /* border:2px solid black; */
+    height:500px;
+    width:100%;
+    background-color:rgb(0, 157, 255);
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:;  */
+}
+
+.itel{
+    /* border:2px solid red; */
+    background:url(./Images/app-download-icon-desktop.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:500px;
+    width:400px;
+    display:flex;
+    /* flex-direction:; */
+    /* align-items:; */
+    /* justify-content:; */
+    /* margin-right:10px; */
+}
+
+.nerve{
+    /* border:2px solid gold; */
+    height:500px;
+    width:850px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.pedri{
+    /* border:2px solid forestgreen; */
+    height:90%;
+    width:850px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    justify-content:space-around;
+}
+
+.Neil{
+    color:white;
+    /* border:2px solid forestgreen; */
+    height:60%;
+    width:790px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    font-size:200;
+    margin-top:70px;
+}
+
+.Mobile{
+    color:white; 
+}
+
+.Zenith{
+    /* border:2px solid firebrick; */
+    height:180px;
+    width:750px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    
+}
+
+.Midea{
+    /* border:2px solid greenyellow; */
+    background:url(./Images/IOS-image.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:30%;
+    width:170px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    border-radius:5px;
+    margin-right:20px;
+}
+
+.Graham{
+    /* border:2px solid violet; */
+    background:url(./Images/Play-store.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:30%;
+    width:190px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    border-radius:5px;
+    margin-right:80px;
+}
+
+#Newton{
+    color:white;
+    font-size:small;
+    margin-right:100px;
+}
+
+.Win{
+    /* border: 2px solid saddlebrown; */
+    height:160px;
+    width:150px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-content:; */
+    /* color:darkcyan; */
+}
+
+.Charles{
+    /* border:2px solid salmon; */
+    background:url(./Images/app-qr.svg);
+    height:110px;
+    width:110px;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    margin-top:20px;
+}
+
+.Denzel{
+    /* border: 2px saddlebrown; */
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-content:; */
+    color:darkcyan;
+    font-size:small;
+    color:white;
+}
+
+/* --------------End of Mobile Application-------------- */
+
+
+.Gordon{
+    /* border:2px solid black; */
+    height:400px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    margin-top:60px;;
+}
+
+.Hut{
+    /* border:2px solid red; */
+    height:300px;
+    width:80%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-content:; */
+    background-color:whitesmoke;
+}
+
+.Poole{
+    /* border:2px solid red; */
+    height:80px;
+    width:80%;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    color:black;
+}
+
+.sad{
+   color:black;
+   /* border:2px solid greenyellow; */
+   height:80px;
+   /* width:; */
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   justify-content:space-around;
+   margin-bottom:0%;
+   font-weight:bolder;
+   
+}
+
+.Larry{
+   color:black;
+   /* border:2px solid yellowgreen; */
+   height:60px;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   /* justify-content:; */
+   font-size:large;
+   font-weight:100;
+   margin-top:5px;
+}
+
+.vertex{
+    /* border:2px solid dodgerblue; */
+    height:80px;
+    /* width:; */
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    justify-content:space-around;
+    margin-top:20px;
+}
+
+.Doge{
+    /* border:2px solid yellowgreen; */
+    height:75px;
+    width:150%;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-right:8px;
+    
+}
+
+
+.Invest{
+    /* border:2px solid palegreen; */
+    height:76px;
+    width:180px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+}
+
+.Moon{
+    /* border:2px solid dodgerblue; */
+    height:75px;
+    width:560px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    justify-content:space-around;
+}
+
+.League{
+    /* border:2px solid dodgerblue; */
+    height:83px;
+    width:250px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    text-align:center;
+    background-color:rgb(255, 132, 0);
+    color:white;
+    border-radius:5px;
+    margin-bottom:0%;
+    margin-top:3px;
+}
+ 
+.League:hover{
+    background-color:rgb(255, 119, 0);
+}
+
+.Deer{
+    margin-top:10px;
+    /* border:2px solid navy; */
+    height:80px;
+    width:80%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-content:; */
+}
+
+.Tether{
+    /* border:2px solid navy; */
+    height:600px;
+    width:100%;
+    font-size:medium;
+    font-weight:100;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    margin-bottom:0%;
+
+}
+
+.Euro{
+    /* border:2px solid navy; */
+    height:600px;
+    width:100%;
+    font-size:medium;
+    font-weight:100;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    margin-top:0%;
+}
+
+/*-------------About the Holidays Packages--------------*/
+
+.Winner{
+    /* border:2px solid greenyellow; */
+    height:180px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    justify-content:space-around;
+}
+
+.Peace{
+    color:Black;
+    
+    
+}
+
+.Amanda{
+    /* border:2px solid red; */
+    height:180px;
+    width:81%;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    justify-content:space-evenly;
+}
+
+.Bowen{
+        /* border:2px solid blue; */
+        height:150px;
+        width:100%;
+        display:flex;
+        flex-direction:row;
+        /* align-items:; */
+        justify-content:space-evenly;
+        font-weight:500;
+        font-size:small;
+}
+
+/*--------------The End-----------------*/
+
+/*-----------------The beginning of a list of flights from Nigeria---------------------*/
+
+.Core{
+    /* border:2px solid red; */
+    height:230px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.Demo{
+    /* border:2px solid green; */
+    height:230px;
+    width:81%;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+
+}
+
+.Vienny{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:start;
+    /* justify-content:; */
+}
+
+.Scan{
+    /* border:2px solid red; */
+    height:80px;
+    width:200px;
+    display:flex;
+    /* flex-direction:; */
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Station{
+    /* border:2px solid gold; */
+    height:300px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    justify-content:space-between;
+}
+
+.Udemy{
+    /* border:2px solid greenyellow; */
+    height:160px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Maiden{
+    color:Black;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    margin-top:0%;
+}
+
+.Division{
+    /* border:2px solid green; */
+    height:40px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+.Bambi{
+    /* border:2px solid hotpink; */
+    height:160px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Nike{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    margin-top:0%;
+
+}
+
+.Rating{
+    /* border:2px solid lawngreen; */
+    height:40px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Fund{
+    /* border:2px solid indigo; */
+    height:160px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Verizon{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Room{
+    /* border:2px solid goldenrod; */
+    height:40px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Farm{
+    /* border:2px solid yellow; */
+    height:160px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Door{
+    /* border:2px solid deepskyblue; */
+    height:40px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    /* font-weight:; */
+}
+
+.Verve{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Sierra:hover{
+    color:rgb(0, 183, 255);
+    font-weight:lighter;
+}
+
+/*------------The End------------*/
+
+/*-------------The beginning of hotel destinations------------------*/
+
+.Exness{
+    /* border:2px solid black; */
+    height:300px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.Deriv{
+    /* border:2px solid firebrick; */
+    width:81%;
+    height:300px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Houston{
+    /* border:2px solid black; */
+    height:80px;
+    width:300px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+}
+
+.Kwakol{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+}
+
+.Paris{
+    /* border:2px solid blue; */
+    height:170px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.Instanbul{
+    /* border:2px solid lawngreen; */
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:space-around; */
+    margin-top:0%;
+}
+
+.John{
+    /* border:2px solid hotpink; */
+    width:200px;
+    height:30px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Adam{
+    /* border:2px solid indigo; */
+    height:170px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Manchester{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    margin-top:0%;
+}
+
+
+.Africa{
+    /* border:2px solid olivedrab; */
+    height:30px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Burna{
+    /* border:2px solid red; */
+    height:170px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Harry{
+    /* border:2px solid palegreen; */
+    height:30px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Chelsea{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Anthony{
+    /* border:2px solid gold; */
+    height:170px;
+    width:200px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Asia{
+    /* border:2px solid lightcoral; */
+    height:30px;
+    width:200px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Everton{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+/*-------The End-------*/
+
+.Birth{
+    /* border:2px solid hotpink; */
+    height:200px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-evenly;
+}
+
+.Asset{
+    border:2px solid mediumaquamarine;
+    height:200px;
+    width:82%;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    border-top:dotted;
+    border-left:hidden;
+    border-right:hidden;
+    border-bottom:hidden;
+}
+
+.Note{
+    /* border:2px solid chartreuse; */
+    height:118px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Zed{
+    /* border:2px solid red; */
+    height:30px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Nancy{
+    color:black;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Danny{
+    /* border:2px solid blue; */
+    height:80px;
+    width:290px;
+    display:flex;
+    flex-direction:row;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Moody{
+    /* border:2px solid chocolate; */
+    height:118px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Picanto{
+    /* border:2px solid black; */
+    height:30px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Chiugo{
+    color:black;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Patricia{
+    /* border:2px solid violet; */
+    height:80px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content: */
+}
+
+.Pato{
+    /* border:2px solid darkcyan; */
+    height:118px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Starbucks{
+    /* border:2px solid black; */
+    height:30px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Jazzy{
+    color:black;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+    margin-top:0%;
+}
+
+.Domino{
+    /* border:2px solid violet; */
+    height:80px;
+    width:290px;
+    display:flex;
+    flex-direction:column;
+    /* align-items:; */
+    /* justify-content:; */
+}
+
+.Jerry{
+    /* border:2px solid deeppink; */
+    height:120px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+    background-color:rgb(0, 157, 255);
+}
+
+.Mouka{
+    /* border:2px solid red; */
+    height:80px;
+    width:81%;
+    display:flex;
+    flex-direction:column;
+    /* justify-content:; */
+    /* align-items:; */
+}
+
+.Liver{
+    /* border:2px solid greenyellow; */
+    height:30px;
+    width:81%;
+    display:flex;
+    flex-direction:column;
+    /* justify-content:; */
+    /* align-items:; */
+    color:white;
+}
+
+.Gabs{
+    /* border:2px solid greenyellow; */
+    height:30px;
+    width:81%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    color:white;
+}
+
+.Palm{
+    /* border:2px solid greenyellow; */
+    height:30px;
+    width:81%;
+    display:flex;
+    /* flex-direction:row; */
+    /* align-items:center; */
+    color:white;
+}
+
+ @media only screen and (max-width: 600px) {
+}
